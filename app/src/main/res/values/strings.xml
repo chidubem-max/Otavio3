@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OTAVIO</string>
+    <string name="bio">
+ ABOUT:\n
+   OTAVIO delivers office supplies to small businesses in Boston, Massachusetts. The business is structured as a sole proprietorship, operating under entrepreneur Ann Smith. OTAVIO is located in Boston, Massachusetts and will begin operations in February.  OTAVIO recognizes the busy lives of small business owners and wants to bring essential items like printers, cash registers, paper, ink, and envelopes to their doorsteps. OTAVIO  will conveniently provide office supplies to small business owners who are short on time. Other office supply stores cannot match the convenience OTAVIO will give.
+  \n\n
+   ADDRESS: 16TH BLOCK, OFF STAPLES BLOCK , BOSTON \n\n
+   CONTACT: +91 234-444-444 , 0902456789
+
+    </string>
+    <string name="yellow_star">yellow_star</string>
+    <string name="company">company_logo</string>
+
+</resources>

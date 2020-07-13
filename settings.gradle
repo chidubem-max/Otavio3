@@ -1,0 +1,2 @@
+rootProject.name='OTAVIO'
+include ':app'
